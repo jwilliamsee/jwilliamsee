@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Web program to automate residential refrigeration and air conditioning calculations.**
 
-- 🌱 I’m currently learning **Analyzing data from multiple files**
+- 🌱 I’m currently learning **Analyzing data from multiple files with Python**
 
 - 🤝 I’m looking for help with [Python (basic)](https://github.com/jwilliamsee/EscobarJW/tree/main/AnalizandoDatosConPythonBasic)
 
