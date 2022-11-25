@@ -58,11 +58,26 @@
 -
 -
   
-  <h3 align="middle">3. Electromechanical maintenance</h3>
+  <h3 align="middle">3. Electromechanical maintenance & mechanic design</h3>
+  
+- Preventive and corrective maintenance to electrical and mechanical machines in low and medium voltage.
+  
+- Design of mechanical parts with Solidworks CAD software and AutoCAD drawings to replace damaged parts.
+  
+- I can use mechanical and electrical tools to maintain electromechanical equipment.
+  
+- I can arc weld metal parts because I worked in the family blacksmith shop.
+  
+- I took a basic electropneumatics course to maintain equipment with compressed air.
+  
+- Troubleshoot and repair industrial machinery.
+
+- Read and interpret electrical, electronic and mechanical drawings (Read and interpret blueprints).
+  
+- 
   
 -
--
--
+  
 
 <h3 align="left">This page is currently being updated</h3>
 <!--
