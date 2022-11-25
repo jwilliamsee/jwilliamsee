@@ -58,8 +58,7 @@
 -
 -
   
-  <h3 align="middle">3. Electromechanical maintenance & mechanic design</h3>
-  
+<h3 align="middle">3. Electromechanical maintenance & mechanic design</h3>
   
 - Preventive and corrective maintenance to electrical and mechanical machines in low and medium voltage.
   
