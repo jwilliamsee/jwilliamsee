@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Electronic design (hardware), Mechanical design (2D-3D) and Residential design in refrigeration and air conditioning systems.**
 
-- 📫 How to reach me **escobarescobarwilliams@gmail.com**
+- 📫 How to reach me **escobarescobarwilliams@gmail.com, escobarescobarjw@gmail.com**
 
 - ⚡ Fun fact **I think I am self-motivated and self-taught to learn new things**
 
