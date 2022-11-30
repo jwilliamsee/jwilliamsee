@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Analyzing data from multiple files with Python**
 
-- 🤝 I’m looking for help with [Python (basic)](https://github.com/jwilliamsee/EscobarJW/tree/main/AnalizandoDatosConPythonBasic)
+- 🤝 I’m looking for help with [**Python (basic**)](https://github.com/jwilliamsee/EscobarJW/tree/main/AnalizandoDatosConPythonBasic)
 
-- 👨‍💻 All my participation in projects are in [https://github.com/jwilliamsee/EscobarJW](https://github.com/jwilliamsee/EscobarJW)
+- 👨‍💻 All my participation in projects are in [**Here**](https://github.com/jwilliamsee/EscobarJW)
 
 - 💬 Ask me about **Electronic design (hardware), Mechanical design (2D-3D) and Residential design in refrigeration and air conditioning systems.**
 
