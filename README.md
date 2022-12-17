@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jwilliamsee&label=Profile%20views&color=0715df&style=flat" alt="jwilliamsee" /> </p>
 
-- 🔭 I’m currently working on **Web program to automate residential refrigeration and air conditioning calculations.**
+- 🔭 I’m currently working on **Freelancer.**
 
 - 🌱 I’m currently learning **Analyzing data from multiple files with Python**
 
-- 🤝 I’m looking for help with [**Python (basic**)](https://github.com/jwilliamsee/EscobarJW/tree/main/AnalizandoDatosConPythonBasic)
+- 🤝 I’m looking for help with [**My Python course (basic)**](https://github.com/jwilliamsee/EscobarJW/tree/main/AnalizandoDatosConPythonBasic)
 
-- 👨‍💻 All my participation in projects are in [**Here**](https://github.com/jwilliamsee/EscobarJW)
+- 👨‍💻 All my participation in projects are in [**Click here**](https://github.com/jwilliamsee/EscobarJW)
 
 - 💬 Ask me about **Electronic design (hardware), Mechanical design (2D-3D) and Residential design in refrigeration and air conditioning systems.**
 
