@@ -25,7 +25,7 @@
 </p>
 
 <h3 align="left">Tools:</h3>
-<p align="left"><img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/electronic-tools.png?raw=true" alt="Tools" width="300" height="300"/>
+<p align="left"><img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/electronic-tools.png?raw=true" alt="Tools" width="400" height="300"/>
 <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/electronics-tool.jpeg?raw=true" alt="Tools" width="300" height="300"/></a></p>
 
 <h3 align="left">Basic level programming languages and Tools:</h3>
