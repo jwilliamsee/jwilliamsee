@@ -24,6 +24,10 @@
 <a href="https://www.youtube.com/c/@jwescobar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jwescobar" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Tools:</h3>
+<img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/electronic-tools.png?raw=true" alt="Tools" width="40" height="40"/>
+<img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/electronics-tool.jpeg?raw=true" alt="Tools" width="40" height="40"/>
+
 <h3 align="left">Basic level programming languages and Tools:</h3>
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ni.com/es-mx/shop/labview.html" target="_blank" rel="noreferrer"> <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/Labview.png?raw=true" alt="LabVIEW" width="60" height="40"/> </a> </p>
 
@@ -54,7 +58,7 @@
 
 - I can make PCB (Printed Circuit Board) designs in the software mentioned above: Proteus, Kicad, EasyEDA, Fritzing, Tinkercad and Autocad.
 
--
+- I can do parametric simulation of electronic circuits in LTSpice (basic).
 -
 -
   
