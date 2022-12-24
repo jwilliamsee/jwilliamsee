@@ -18,6 +18,17 @@
 
 - ⚡ Fun fact **I think I am self-motivated and self-taught to learn new things**
 
+- ⚡ Courses I have taken [**proof of courses**](https://github.com/jwilliamsee/EscobarJW/tree/main/Certificado-Ingenieria)
+  
+  * Electromechanical engineering certificate from the Technological Institute of Ensenada in Baja California, Mexico. [**Certificate**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/CertificadoLicenciatura.pdf)
+  * English level with internal proof of the Technological Institute of Zacatepec in Cuernavaca, Morelos, Mexico. [**Proof of English**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/CONSTANCIA%20ESCOBAR%20JOSE%20WILLIAMS%20pdf.pdf)
+  * Course "Basic Electro-pneumatics" by the Technological Institute of Zacatepec in Cuernavaca, Morelos, Mexico. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/Constancia-Electroneumatica.pdf)
+  * Online course "Root Cause Analysis of equipment failures" on the Udemy platform. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/ConstanciaACR.pdf)
+  * Online course "Fundamentals of Computer Aided Engineering (CAE)" by ESSS Virtual Institute. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/ConstanciaCursoBasicoCAE.pdf)
+  * Online course "Structural members" with Solidworks by SolidServicios. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/Constancia-CursoEstructurasSolidWork.pdf)
+  * Online course "Technology and innovations in threaded" by GUHRING MEXICANA S.A DE C.V.. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/Constancia-Roscado.pdf)
+  * Currently taking a course on "Analyzing data from multiple files with Python".
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/williams_e_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="williams_e_e" height="30" width="40" /></a>
@@ -27,7 +38,7 @@
 <h3 align="left">Tools:</h3>
 <p align="left"><img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/electronic-tools.png?raw=true" alt="Tools" width="400" height="300"/>
 <img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/electronics-tool.jpeg?raw=true" alt="Tools" width="300" height="300"/>
-<img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/tools.png?raw=true" alt="Tools" width="400" height="300"/></a></p>
+<img src="https://github.com/jwilliamsee/BancoDeImagenes/blob/main/IMAGENES/tool3.jpeg?raw=true" alt="Tools" width="300" height="300"/></a></p>
 
 
 <h3 align="left">Basic level programming languages and Tools:</h3>
