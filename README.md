@@ -28,6 +28,7 @@
   * Online course "Structural members" with Solidworks by SolidServicios. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/Constancia-CursoEstructurasSolidWork.pdf)
   * Online course "Technology and innovations in threaded" by GUHRING MEXICANA S.A DE C.V.. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/Constancia-Roscado.pdf)
   * Currently taking a course on "Analyzing data from multiple files with Python".
+  * Currently taking a Matlab course "Simulink Fundamentals"".
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
