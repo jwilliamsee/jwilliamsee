@@ -66,11 +66,11 @@
 
 - I can do mathematical calculations for an electronic circuit.
 
-- I can make schematic diagrams of electronic circuits in software: Kicad, Fritzing, EasyEDA, Proteus and AutoCAD. 
+- I can make schematic diagrams of electronic circuits in software: Kicad, Fritzing, EasyEDA, Proteus, Altium(basic) and AutoCAD. 
 
 - I can make PCB (Printed Circuit Board) designs in the software mentioned above: Proteus, Kicad, EasyEDA, Fritzing, Tinkercad and Autocad.
 
-- I can do parametric simulation of electronic circuits in LTSpice (basic).
+- I can do parametric simulation of electronic circuits in LTSpice (basic) and PSpice.
 -
 -
   
