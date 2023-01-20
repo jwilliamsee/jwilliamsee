@@ -30,6 +30,8 @@
   * Currently taking a course on "Analyzing data from multiple files with Python".
   * Currently taking a Matlab course "Simulink Fundamentals"".
 
+- 💬 Recommendation letters: [**Letters number 1**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/CARTA_RECOMENDACION.pdf), [**Letters number 2**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/CARTADERECOMENDACION2.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/williams_e_e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="williams_e_e" height="30" width="40" /></a>
