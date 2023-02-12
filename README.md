@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm José W. Escobar Escobar</h1>
-<h3 align="center">A passionate Electromechanical Engineer with 2 years of experience in mechanical-electronic manufacturing, beginner in programming with Python and LabVIEW.</h3>
+<h3 align="center">A passionate Electromechanical Engineer with 2 years of experience in electronic manufacturing, beginner in programming with Python and LabVIEW.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jwilliamsee&label=Profile%20views&color=0715df&style=flat" alt="jwilliamsee" /> </p>
 
