@@ -51,6 +51,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jwilliamsee&show_icons=true&theme=dracula&title_color=36cc00&text_color=f78502&bg_color=000000&locale=en" alt="jwilliamsee" /></p>
   
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jwilliamsee&theme=react&line_height=40&hide=css"/> </a>
+  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwilliamsee&theme=highcontrast" alt="jwilliamsee" /></p>
 
 <h1 align="left">How can I help you and in what areas?:</h1>
