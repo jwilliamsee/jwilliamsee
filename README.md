@@ -53,7 +53,7 @@
   
  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jwilliamsee&theme=react&line_height=40&hide=css"/> </a>
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwilliamsee&theme=highcontrast" alt="jwilliamsee" /></p>
+<a href=""> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jwilliamsee&theme=highcontrast" alt="jwilliamsee" /> </a>
 
 <h1 align="left">How can I help you and in what areas?:</h1>
 <h3 align="middle">1. Electronic maintenance</h3>
