@@ -27,8 +27,7 @@
   * Online course "Structural members" with Solidworks by SolidServicios. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/Constancia-CursoEstructurasSolidWork.pdf)
   * Online course "Technology and innovations in threaded" by GUHRING MEXICANA S.A DE C.V.. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/Constancia-Roscado.pdf)
   * Currently taking a course on "Analyzing data from multiple files with Python".
-  * currently taking a programming course in C/C++ "Especialización completa en C y C++".
-  * currently taking a diploma in "Semiconductores".
+  
 
 - 💬 Recommendation letters: [**Letters number 1**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/CARTA_RECOMENDACION.pdf), [**Letters number 2**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/CARTADERECOMENDACION2.pdf)
 
