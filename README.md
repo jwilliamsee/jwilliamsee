@@ -1,10 +1,10 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm José W. Escobar Escobar</h1>
-<h3 align="center">Passionate Electromechanical with 2.5 years of experience as a electromechanical.</h3>
+<h3 align="center">Passionate Electromechanical with 2.5 years of experience in electronic design and mechanical design at junior level.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jwilliamsee&label=Profile%20views&color=0715df&style=flat" alt="jwilliamsee" /> </p>
 
-- 🔭 I’m currently working on **Freelancer.**
+- 🔭 I’m currently working on **Freelance.**
 
 - 🌱 I’m currently learning **Analyzing data from multiple files with Python**
 
