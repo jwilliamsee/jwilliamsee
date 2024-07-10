@@ -20,7 +20,6 @@
 
 - ⚡ Courses I have taken [**proof of courses**](https://github.com/jwilliamsee/EscobarJW/tree/main/Certificado-Ingenieria)
   
-  * English level with internal proof of the Technological Institute of Zacatepec in Cuernavaca, Morelos, Mexico. [**Proof of English**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/CONSTANCIA%20ESCOBAR%20JOSE%20WILLIAMS%20pdf.pdf)
   * Course "Basic Electro-pneumatics" by the Technological Institute of Zacatepec in Cuernavaca, Morelos, Mexico. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/Constancia-Electroneumatica.pdf)
   * Online course "Root Cause Analysis of equipment failures" on the Udemy platform. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/ConstanciaACR.pdf)
   * Online course "Fundamentals of Computer Aided Engineering (CAE)" by ESSS Virtual Institute. [**proof of course**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/ConstanciaCursoBasicoCAE.pdf)
