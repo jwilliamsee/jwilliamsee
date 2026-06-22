@@ -28,7 +28,6 @@
   * Currently taking a course on "Analyzing data from multiple files with Python".
   
 
-- 💬 Recommendation letters: [**Letters number 1**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/CARTA_RECOMENDACION.pdf), [**Letters number 2**](https://github.com/jwilliamsee/EscobarJW/blob/main/Certificado-Ingenieria/CARTADERECOMENDACION2.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
